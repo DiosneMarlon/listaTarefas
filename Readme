@@ -27,3 +27,5 @@ O sistema é composto por três arquivos principais:
 
 3. src/database/ConnectionDatabase.js:
    - O arquivo ConnectionDatabase.js é responsável por abrir a conexão com o banco de dados, garantindo uma interação eficiente e segura entre o aplicativo e os dados armazenados.
+
+Alunos envolvidos no projeto: Diosne Marlon Furtado dos Santos - 04109634, Gustavo Henrique Pereira Lima - 04098527, Kauan Leandro Gonçalves de Araújo Moreira - 04113076, Paulo Sérgio Barros Teixeira  - 04147128.
